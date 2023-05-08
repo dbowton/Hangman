@@ -1,2 +1,6 @@
-﻿  Main.cpp
+﻿  Game.cpp
+  Source.cpp
+  View.cpp
+C:\Users\Drayven\Desktop\Hangman\Hangman\View.cpp(136,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   Hangman.vcxproj -> C:\Users\Drayven\Desktop\Hangman\x64\Debug\Hangman.exe
